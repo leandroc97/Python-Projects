@@ -2,7 +2,7 @@
 # Simple quiz with a few functions and loops to increment user's score.
 
 print("Welcome to my computer quiz!")
-# Define a variable for the user's answer
+# Define a variable for the user's answer.
 
 playing = input("Do you want to play? (yes / no) ")
 
